@@ -1672,7 +1672,7 @@ HWND InitWindow(HINSTANCE hInst, int nCmdShow)
 	
 	//----------Création de la fenêtre----------
 
-	hWnd = CreateWindow(wc.lpszClassName, "Random Life", WS_OVERLAPPEDWINDOW, 0, 0, 1024, 768, (HWND) NULL, (HMENU) NULL, hInst, (LPVOID) NULL);
+	hWnd = CreateWindow(wc.lpszClassName, "Random Life", WS_POPUPWINDOW, 0, 0, 1024, 768, (HWND) NULL, (HMENU) NULL, hInst, (LPVOID) NULL);
 
 	if (!hWnd)
 		ReportDxError(S_FALSE, WIN32_, ERR_CREATEWIN);
@@ -3651,7 +3651,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmdLine, int nC
 	HMODULE ResModule;
 
 #ifndef _DEBUG
-	CheckUpdate();
+	//CheckUpdate();
 #endif
 
 	CurrentMusic = 0;

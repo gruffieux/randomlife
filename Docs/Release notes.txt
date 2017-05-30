@@ -1,0 +1,144 @@
+Release 2.2: 30/05/2017
+
+Améliorations
+-Désactivation de la mise à jour au lancement.
+
+Bugs corrigés
+-Mode de fenêtre compatible avec Windows 10
+
+Release 2.1: 11/12/2009
+
+Améliorations
+-Ajout d'un serveur secondaire en cas d'erreur lors du téléchargement de la mise é jour.
+
+Bugs corrigés
+-(MAJ 13/12/2009) On ne pouvait plus rescussiter sur toutes les zones.
+-Les défauts du synthétiseur midi ne sont plus répercutés sur toutes les musiques.
+
+Release 2.0: 13/11/2009
+
+Améliorations
+-Vérification de mise à jour au lancement.
+
+Bugs corrigés
+-La dimension des fenêtres est maintenant à nouveau correct.
+-La touche "Toujours courir" fonctionne à nouveau bien.
+
+
+
+Release 1.9: 11/10/2009
+
+Améliorations
+-Seuls les résolutions compatibles avec le jeu sont maintenant affichées dans le programme de configuration.
+-On peut maintenant mettre à jour par internet avec le programm UpdateClient.exe.
+
+
+
+Release 1.8: 11/04/2009
+
+Améliorations
+-On peut maintenant changer la configuration directement depuis le jeu (pressez la touche F3)
+-Allégement de la base des règles rules.kdat
+-Réduction du malus sur la caractéristique Volonté pour les massues
+
+Bugs corrigés
+-Lorsque au montait au titre expert en magie  (niveau 6), les scores ne correspondaient plus aux écoles de magie respectives.
+
+
+
+Release 1.7: 14/02/2009
+
+Améliorations
+-Plus besoin de l'ODBC, le fichier rules.kdat remplace la base de données Rules.mdb
+
+
+
+Release 1.6: 18/01/2009
+
+Bugs corrigés
+-Lors de la consommation d'une potion d'invisibilité, le compteur sur la durée de l'effet n'était pas réinitialisé.
+
+
+
+Release 1.5: 12/12/2008
+
+Améliorations
+-Changement de couleurs pour certain textes.
+-Nouvelle carte du monde ultra-précise.
+-Les points de résurrection sur la carte ont maintenant une position fixe pour chaque zone.
+
+
+
+Release 1.4: 26/09/2008
+
+Améliorations
+-Si le joueur se fait voler un objet pendant qu'il combat, le voleur doit s'inclure au combat si il n'est pas discret.
+-Ajout du mini-événement "Bonus!" pour les sorts.
+
+Bugs corrigés
+-La fenêtre Journal s'affichait même quand on avait déjà créés les potions nécessaire à la quête du Prêtre.
+
+
+
+Release 1.2: 30/06/2008
+
+Améliorations
+-Nouveau fichier de config contenant les règlages graphiques/sonores et les touches clavier. Il remplace les fichiers Random Life Keys.mdb et config.ini.
+
+Bugs corrigés
+-Le chargement des données pouvait faire planter le programme.
+
+
+
+Release 1.1: 01/05/2008
+
+Améliorations
+-Optimisation de la gestion des plans pour les éléments graphiques.
+-Nouveau look et meilleur comportement des fenêtres de l'interface.
+-Ajout de mimi-événements défilants au dessus des personnages.
+-Nouveau sons d'avertissement pour les actions interdites ou ayant échoué.
+-Le journal s'affiche maintenant automatiquement lorsque il est mit à jour.
+
+Bugs connus:
+-Le comportement des personnages IA peut parfois être bizarre. Exemple: Après avoir tué sa cible, il va quelque part, se bloque et continue à courir sur place.
+
+
+
+Release 1.0: 04/01/2008
+
+Améliorations
+-Un son est maintenant joué lorsque le chao est atteint.
+-Les objets de l'inventaire sont maintenant trié par type d'objet pour faciliter leur recherche.
+
+Bugs corrigés
+-On pouvait intéragir avec les PNJs en train de se battre ou de dormir, ce n'est plus le cas.
+-Lorsque on triait le répertoire \Sounds par un autre critère que le nom, les sons joués dans le jeu étaient faux.
+
+
+
+Beta 1.1: 08/11/2007
+
+Améliorations
+-Une fenêtre donnant le choix de sauver la partie apparaît maintenant lorsque la sauvegarde est possible.
+-L'expérience gagnée lorsque on utilise le sort de soin sans combattre dépend à présent du niveau de magie personnel.
+
+
+
+Beta 1.0: 19/09/2007
+
+Améliorations
+-Ajout d'un journal des quêtes dans les fenêtres disponibles.
+-Le Capitaine donne maintenant un annneau magique qui invoque l'arme NecroMisery.
+-Les compétences armure progressent maintenant simplement en portant l'armure pendant un combat.
+-Amélioration du système de combat. Plusieurs combat peuvent avoir lieu en même temps.
+-Les PNJs/créatures/animaux peuvent maintenant s'attaquer entre eux en fonction des critères utilisés par l'IA. Par exemple une créature contaminée va attaquer un animal.
+-Amélioration des traitements de sauvegarde et restauration des données. Chaque valeur est maintenant indexée dans le fichier savegame.dat. Ce système est plus souple mais les traitements plus longs.
+-Ajout d'une jauge de progression lors de la sauvegarde et restauration des données.
+
+Bugs corrigés
+-Le son des sorts protecteurs n'était pas toujours joué.
+-Lorsque un échange échouait, l'objet restait pointé par le personnage.
+
+Bugs connus
+-Au bout d'un moment la musique déconne ou a une tonalité inécoutable. Solution temporaire: éteindre les écouteurs!
+-Parfois un perso IA sort de l'écran pour atteindre une cible inconnue.
