@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random Life", "Random Life\Random Life.vcproj", "{127D576C-C9B3-4D12-9C4E-C353DA11CC3B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RLRes", "RLRes\RLRes\RLRes.vcproj", "{36A5ED2B-9DBE-4EB7-B338-EF1C1F9EEAA9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameConfig", "..\GameConfig\GameConfig\GameConfig.vcproj", "{3E0776DE-F13B-4752-8272-1964C411B064}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UpdateClient", "..\UpdateManager\UpdateClient\UpdateClient.vcproj", "{7FF637CF-6CEB-41FA-8B29-D0078CE20185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127D576C-C9B3-4D12-9C4E-C353DA11CC3B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{127D576C-C9B3-4D12-9C4E-C353DA11CC3B}.Debug|Win32.Build.0 = Debug|Win32
+		{127D576C-C9B3-4D12-9C4E-C353DA11CC3B}.Release|Win32.ActiveCfg = Release|Win32
+		{127D576C-C9B3-4D12-9C4E-C353DA11CC3B}.Release|Win32.Build.0 = Release|Win32
+		{36A5ED2B-9DBE-4EB7-B338-EF1C1F9EEAA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36A5ED2B-9DBE-4EB7-B338-EF1C1F9EEAA9}.Debug|Win32.Build.0 = Debug|Win32
+		{36A5ED2B-9DBE-4EB7-B338-EF1C1F9EEAA9}.Release|Win32.ActiveCfg = Release|Win32
+		{36A5ED2B-9DBE-4EB7-B338-EF1C1F9EEAA9}.Release|Win32.Build.0 = Release|Win32
+		{3E0776DE-F13B-4752-8272-1964C411B064}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E0776DE-F13B-4752-8272-1964C411B064}.Debug|Win32.Build.0 = Debug|Win32
+		{3E0776DE-F13B-4752-8272-1964C411B064}.Release|Win32.ActiveCfg = Release|Win32
+		{3E0776DE-F13B-4752-8272-1964C411B064}.Release|Win32.Build.0 = Release|Win32
+		{7FF637CF-6CEB-41FA-8B29-D0078CE20185}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FF637CF-6CEB-41FA-8B29-D0078CE20185}.Debug|Win32.Build.0 = Debug|Win32
+		{7FF637CF-6CEB-41FA-8B29-D0078CE20185}.Release|Win32.ActiveCfg = Release|Win32
+		{7FF637CF-6CEB-41FA-8B29-D0078CE20185}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

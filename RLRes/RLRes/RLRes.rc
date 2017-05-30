@@ -1,0 +1,244 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Français (Suisse) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FRS)
+#ifdef _WIN32
+LANGUAGE LANG_FRENCH, SUBLANG_FRENCH_SWISS
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BEAR_ATTACK_HTH     BITMAP                  "characters\\bear_attack_hth.bmp"
+IDB_BEAR_DEAD           BITMAP                  "characters\\bear_dead.bmp"
+IDB_BEAR_HITTED         BITMAP                  "characters\\bear_hitted.bmp"
+IDB_BEAR_MOVE           BITMAP                  "characters\\bear_move.bmp"
+IDB_BEAR_SLEEP          BITMAP                  "characters\\bear_sleep.bmp"
+IDB_BEAR_STOP           BITMAP                  "characters\\bear_stop.bmp"
+IDB_DOG_ATTACK_HTH      BITMAP                  "characters\\dog_attack_hth.bmp"
+IDB_DOG_DEAD            BITMAP                  "characters\\dog_dead.bmp"
+IDB_DOG_HITTED          BITMAP                  "characters\\dog_hitted.bmp"
+IDB_DOG_MOVE            BITMAP                  "characters\\dog_move.bmp"
+IDB_DOG_SLEEP           BITMAP                  "characters\\dog_sleep.bmp"
+IDB_DOG_STOP            BITMAP                  "characters\\dog_stop.bmp"
+IDB_FLATSNAKE_ATTACK_HTH BITMAP                  "characters\\flatsnake_attack_hth.bmp"
+IDB_FLATSNAKE_DEAD      BITMAP                  "characters\\flatsnake_dead.bmp"
+IDB_FLATSNAKE_HITTED    BITMAP                  "characters\\flatsnake_hitted.bmp"
+IDB_FLATSNAKE_MOVE      BITMAP                  "characters\\flatsnake_move.bmp"
+IDB_FLATSNAKE_SLEEP     BITMAP                  "characters\\flatsnake_sleep.bmp"
+IDB_FLATSNAKE_STOP      BITMAP                  "characters\\flatsnake_stop.bmp"
+IDB_HU_ARMOR_ATTACK_AXE BITMAP                  "characters\\hu_armor_attack_axe.bmp"
+IDB_HU_ARMOR_ATTACK_DAGGER BITMAP                  "characters\\hu_armor_attack_dagger.bmp"
+IDB_HU_ARMOR_ATTACK_HTH BITMAP                  "characters\\hu_armor_attack_hth.bmp"
+IDB_HU_ARMOR_ATTACK_MACE BITMAP                  "characters\\hu_armor_attack_mace.bmp"
+IDB_HU_ARMOR_ATTACK_SWORD BITMAP                  "characters\\hu_armor_attack_sword.bmp"
+IDB_HU_ARMOR_CONCENTRATE BITMAP                  "characters\\hu_armor_concentrate.bmp"
+IDB_HU_ARMOR_DEAD   BITMAP                  "characters\\hu_armor_dead.bmp"
+IDB_HU_ARMOR_HITTED BITMAP                  "characters\\hu_armor_hitted.bmp"
+IDB_HU_ARMOR_MOVE   BITMAP                  "characters\\hu_armor_move.bmp"
+IDB_HU_ARMOR_SLEEP  BITMAP                  "characters\\hu_armor_sleep.bmp"
+IDB_HU_ARMOR_STOP   BITMAP                  "characters\\hu_armor_stop.bmp"
+IDB_HU_CLOTH_ATTACK_AXE BITMAP                  "characters\\hu_cloth_attack_axe.bmp"
+IDB_HU_CLOTH_ATTACK_DAGGER BITMAP                  "characters\\hu_cloth_attack_dagger.bmp"
+IDB_HU_CLOTH_ATTACK_HTH BITMAP                  "characters\\hu_cloth_attack_hth.bmp"
+IDB_HU_CLOTH_ATTACK_MACE BITMAP                  "characters\\hu_cloth_attack_mace.bmp"
+IDB_HU_CLOTH_ATTACK_SWORD BITMAP                  "characters\\hu_cloth_attack_sword.bmp"
+IDB_HU_CLOTH_CONCENTRATE BITMAP                  "characters\\hu_cloth_concentrate.bmp"
+IDB_HU_CLOTH_DEAD   BITMAP                  "characters\\hu_cloth_dead.bmp"
+IDB_HU_CLOTH_HITTED BITMAP                  "characters\\hu_cloth_hitted.bmp"
+IDB_HU_CLOTH_MOVE   BITMAP                  "characters\\hu_cloth_move.bmp"
+IDB_HU_CLOTH_SLEEP  BITMAP                  "characters\\hu_cloth_sleep.bmp"
+IDB_HU_CLOTH_STOP   BITMAP                  "characters\\hu_cloth_stop.bmp"
+IDB_HU_DRESS1_ATTACK_AXE BITMAP                  "characters\\hu_dress1_attack_axe.bmp"
+IDB_HU_DRESS1_ATTACK_DAGGER BITMAP                  "characters\\hu_dress1_attack_dagger.bmp"
+IDB_HU_DRESS1_ATTACK_HTH BITMAP                  "characters\\hu_dress1_attack_hth.bmp"
+IDB_HU_DRESS1_ATTACK_MACE BITMAP                  "characters\\hu_dress1_attack_mace.bmp"
+IDB_HU_DRESS1_ATTACK_SWORD BITMAP                  "characters\\hu_dress1_attack_sword.bmp"
+IDB_HU_DRESS1_CONCENTRATE BITMAP                  "characters\\hu_dress1_concentrate.bmp"
+IDB_HU_DRESS1_DEAD  BITMAP                  "characters\\hu_dress1_dead.bmp"
+IDB_HU_DRESS1_HITTED BITMAP                  "characters\\hu_dress1_hitted.bmp"
+IDB_HU_DRESS1_MOVE  BITMAP                  "characters\\hu_dress1_move.bmp"
+IDB_HU_DRESS1_SLEEP BITMAP                  "characters\\hu_dress1_sleep.bmp"
+IDB_HU_DRESS1_STOP  BITMAP                  "characters\\hu_dress1_stop.bmp"
+IDB_HU_DRESS2_ATTACK_AXE BITMAP                  "characters\\hu_dress2_attack_axe.bmp"
+IDB_HU_DRESS2_ATTACK_DAGGER BITMAP                  "characters\\hu_dress2_attack_dagger.bmp"
+IDB_HU_DRESS2_ATTACK_HTH BITMAP                  "characters\\hu_dress2_attack_hth.bmp"
+IDB_HU_DRESS2_ATTACK_MACE BITMAP                  "characters\\hu_dress2_attack_mace.bmp"
+IDB_HU_DRESS2_ATTACK_SWORD BITMAP                  "characters\\hu_dress2_attack_sword.bmp"
+IDB_HU_DRESS2_CONCENTRATE BITMAP                  "characters\\hu_dress2_concentrate.bmp"
+IDB_HU_DRESS2_DEAD      BITMAP                  "characters\\hu_dress2_dead.bmp"
+IDB_HU_DRESS2_HITTED    BITMAP                  "characters\\hu_dress2_hitted.bmp"
+IDB_HU_DRESS2_MOVE      BITMAP                  "characters\\hu_dress2_move.bmp"
+IDB_HU_DRESS2_SLEEP     BITMAP                  "characters\\hu_dress2_sleep.bmp"
+IDB_HU_DRESS2_STOP      BITMAP                  "characters\\hu_dress2_stop.bmp"
+IDB_HU_DRESS3_ATTACK_AXE BITMAP                  "characters\\hu_dress3_attack_axe.bmp"
+IDB_HU_DRESS3_ATTACK_DAGGER BITMAP                  "characters\\hu_dress3_attack_dagger.bmp"
+IDB_HU_DRESS3_ATTACK_HTH BITMAP                  "characters\\hu_dress3_attack_hth.bmp"
+IDB_HU_DRESS3_ATTACK_MACE BITMAP                  "characters\\hu_dress3_attack_mace.bmp"
+IDB_HU_DRESS3_ATTACK_SWORD BITMAP                  "characters\\hu_dress3_attack_sword.bmp"
+IDB_HU_DRESS3_CONCENTRATE BITMAP                  "characters\\hu_dress3_concentrate.bmp"
+IDB_HU_DRESS3_DEAD      BITMAP                  "characters\\hu_dress3_dead.bmp"
+IDB_HU_DRESS3_HITTED    BITMAP                  "characters\\hu_dress3_hitted.bmp"
+IDB_HU_DRESS3_MOVE      BITMAP                  "characters\\hu_dress3_move.bmp"
+IDB_HU_DRESS3_SLEEP     BITMAP                  "characters\\hu_dress3_sleep.bmp"
+IDB_HU_DRESS3_STOP      BITMAP                  "characters\\hu_dress3_stop.bmp"
+IDB_HU_LEATH_ATTACK_AXE BITMAP                  "characters\\hu_leath_attack_axe.bmp"
+IDB_HU_LEATH_ATTACK_DAGGER BITMAP                  "characters\\hu_leath_attack_dagger.bmp"
+IDB_HU_LEATH_ATTACK_HTH BITMAP                  "characters\\hu_leath_attack_hth.bmp"
+IDB_HU_LEATH_ATTACK_MACE BITMAP                  "characters\\hu_leath_attack_mace.bmp"
+IDB_HU_LEATH_ATTACK_SWORD BITMAP                  "characters\\hu_leath_attack_sword.bmp"
+IDB_HU_LEATH_CONCENTRATE BITMAP                  "characters\\hu_leath_concentrate.bmp"
+IDB_HU_LEATH_DEAD       BITMAP                  "characters\\hu_leath_dead.bmp"
+IDB_HU_LEATH_HITTED     BITMAP                  "characters\\hu_leath_hitted.bmp"
+IDB_HU_LEATH_MOVE       BITMAP                  "characters\\hu_leath_move.bmp"
+IDB_HU_LEATH_SLEEP      BITMAP                  "characters\\hu_leath_sleep.bmp"
+IDB_HU_LEATH_STOP       BITMAP                  "characters\\hu_leath_stop.bmp"
+IDB_HU_MESH_ATTACK_AXE  BITMAP                  "characters\\hu_mesh_attack_axe.bmp"
+IDB_HU_MESH_ATTACK_DAGGER BITMAP                  "characters\\hu_mesh_attack_dagger.bmp"
+IDB_HU_MESH_ATTACK_HTH  BITMAP                  "characters\\hu_mesh_attack_hth.bmp"
+IDB_HU_MESH_ATTACK_MACE BITMAP                  "characters\\hu_mesh_attack_mace.bmp"
+IDB_HU_MESH_ATTACK_SWORD BITMAP                  "characters\\hu_mesh_attack_sword.bmp"
+IDB_HU_MESH_CONCENTRATE BITMAP                  "characters\\hu_mesh_concentrate.bmp"
+IDB_HU_MESH_DEAD        BITMAP                  "characters\\hu_mesh_dead.bmp"
+IDB_HU_MESH_HITTED      BITMAP                  "characters\\hu_mesh_hitted.bmp"
+IDB_HU_MESH_MOVE        BITMAP                  "characters\\hu_mesh_move.bmp"
+IDB_HU_MESH_SLEEP       BITMAP                  "characters\\hu_mesh_sleep.bmp"
+IDB_HU_MESH_STOP        BITMAP                  "characters\\hu_mesh_stop.bmp"
+IDB_HU_NUDE_ATTACK_AXE  BITMAP                  "characters\\hu_nude_attack_axe.bmp"
+IDB_HU_NUDE_ATTACK_DAGGER BITMAP                  "characters\\hu_nude_attack_dagger.bmp"
+IDB_HU_NUDE_ATTACK_HTH  BITMAP                  "characters\\hu_nude_attack_hth.bmp"
+IDB_HU_NUDE_ATTACK_MACE BITMAP                  "characters\\hu_nude_attack_mace.bmp"
+IDB_HU_NUDE_ATTACK_SWORD BITMAP                  "characters\\hu_nude_attack_sword.bmp"
+IDB_HU_NUDE_CONCENTRATE BITMAP                  "characters\\hu_nude_concentrate.bmp"
+IDB_HU_NUDE_DEAD        BITMAP                  "characters\\hu_nude_dead.bmp"
+IDB_HU_NUDE_HITTED      BITMAP                  "characters\\hu_nude_hitted.bmp"
+IDB_HU_NUDE_MOVE        BITMAP                  "characters\\hu_nude_move.bmp"
+IDB_HU_NUDE_SLEEP       BITMAP                  "characters\\hu_nude_sleep.bmp"
+IDB_HU_NUDE_STOP        BITMAP                  "characters\\hu_nude_stop.bmp"
+IDB_HU_PADS_ATTACK_AXE  BITMAP                  "characters\\hu_pads_attack_axe.bmp"
+IDB_HU_PADS_ATTACK_DAGGER BITMAP                  "characters\\hu_pads_attack_dagger.bmp"
+IDB_HU_PADS_ATTACK_HTH  BITMAP                  "characters\\hu_pads_attack_hth.bmp"
+IDB_HU_PADS_ATTACK_MACE BITMAP                  "characters\\hu_pads_attack_mace.bmp"
+IDB_HU_PADS_ATTACK_SWORD BITMAP                  "characters\\hu_pads_attack_sword.bmp"
+IDB_HU_PADS_CONCENTRATE BITMAP                  "characters\\hu_pads_concentrate.bmp"
+IDB_HU_PADS_DEAD        BITMAP                  "characters\\hu_pads_dead.bmp"
+IDB_HU_PADS_HITTED      BITMAP                  "characters\\hu_pads_hitted.bmp"
+IDB_HU_PADS_MOVE        BITMAP                  "characters\\hu_pads_move.bmp"
+IDB_HU_PADS_SLEEP       BITMAP                  "characters\\hu_pads_sleep.bmp"
+IDB_HU_PADS_STOP        BITMAP                  "characters\\hu_pads_stop.bmp"
+IDB_MARSHPLANT_ATTACK_HTH BITMAP                  "characters\\marshplant_attack_hth.bmp"
+IDB_MARSHPLANT_CONCENTRATE BITMAP                  "characters\\marshplant_concentrate.bmp"
+IDB_MARSHPLANT_DEAD     BITMAP                  "characters\\marshplant_dead.bmp"
+IDB_MARSHPLANT_HITTED   BITMAP                  "characters\\marshplant_hitted.bmp"
+IDB_MARSHPLANT_STOP   BITMAP                  "characters\\marshplant_stop.bmp"
+IDB_PINKSNAKE_ATTACK_HTH BITMAP                  "characters\\pinksnake_attack_hth.bmp"
+IDB_PINKSNAKE_DEAD      BITMAP                  "characters\\pinksnake_dead.bmp"
+IDB_PINKSNAKE_HITTED    BITMAP                  "characters\\pinksnake_hitted.bmp"
+IDB_PINKSNAKE_MOVE      BITMAP                  "characters\\pinksnake_move.bmp"
+IDB_PINKSNAKE_SLEEP     BITMAP                  "characters\\pinksnake_sleep.bmp"
+IDB_PINKSNAKE_STOP      BITMAP                  "characters\\pinksnake_stop.bmp"
+IDB_SPIDER_ATTACK_HTH   BITMAP                  "characters\\spider_attack_hth.bmp"
+IDB_SPIDER_DEAD         BITMAP                  "characters\\spider_dead.bmp"
+IDB_SPIDER_MOVE         BITMAP                  "characters\\spider_move.bmp"
+IDB_SPIDER_STOP         BITMAP                  "characters\\spider_stop.bmp"
+IDB_TITLE               BITMAP                  "interfaces\\title.bmp"
+IDB_ACTION_BUTTONS      BITMAP                  "interfaces\\action_buttons.bmp"
+IDB_COMBAT_ACTION       BITMAP                  "interfaces\\combat_action.bmp"
+IDB_CURSOR              BITMAP                  "interfaces\\cursor.bmp"
+IDB_ELEVATOR            BITMAP                  "interfaces\\elevator.bmp"
+IDB_ELEVATOR_BKG        BITMAP                  "interfaces\\elevator_bkg.bmp"
+IDB_ENERGYBAR           BITMAP                  "interfaces\\energybar.bmp"
+IDB_FLAG_BUTTONS        BITMAP                  "interfaces\\flag_buttons.bmp"
+IDB_LANDMAP             BITMAP                  "interfaces\\landmap.bmp"
+IDB_MENU_BKG            BITMAP                  "interfaces\\menu_bkg.bmp"
+IDB_PANEL_BKG           BITMAP                  "interfaces\\panel_bkg.bmp"
+IDB_PANEL_BORDER        BITMAP                  "interfaces\\panel_border.bmp"
+IDB_PANEL_CLOSE         BITMAP                  "interfaces\\panel_close.bmp"
+IDB_POCKET_ARMORS       BITMAP                  "interfaces\\pocket_armors.bmp"
+IDB_POCKET_INGREDIENTS  BITMAP                  "interfaces\\pocket_ingredients.bmp"
+IDB_POCKET_OTHERS       BITMAP                  "interfaces\\pocket_others.bmp"
+IDB_POCKET_WEAPONS      BITMAP                  "interfaces\\pocket_weapons.bmp"
+IDB_PROGRESS_BUTTONS    BITMAP                  "interfaces\\progress_buttons.bmp"
+IDB_SELECT_BUTTONS      BITMAP                  "interfaces\\select_buttons.bmp"
+IDB_SETTING_BUTTONS     BITMAP                  "interfaces\\setting_buttons.bmp"
+IDB_SHORTCUT_LOGOS      BITMAP                  "interfaces\\shortcut_logos.bmp"
+IDB_SPELLLIST           BITMAP                  "interfaces\\spelllist.bmp"
+IDB_WK_MACE             BITMAP                  "pickups\\wk_mace.bmp"
+IDB_ARMORS              BITMAP                  "pickups\\armors.bmp"
+IDB_DAGGERS             BITMAP                  "pickups\\daggers.bmp"
+IDB_DRINKS              BITMAP                  "pickups\\drinks.bmp"
+IDB_FLOWERS             BITMAP                  "pickups\\flowers.bmp"
+IDB_FRUITS              BITMAP                  "pickups\\fruits.bmp"
+IDB_JEWELS              BITMAP                  "pickups\\jewels.bmp"
+IDB_MD_AXE              BITMAP                  "pickups\\md_axe.bmp"
+IDB_MD_MACE             BITMAP                  "pickups\\md_mace.bmp"
+IDB_MESSAGE             BITMAP                  "pickups\\message.bmp"
+IDB_MONEY               BITMAP                  "pickups\\money.bmp"
+IDB_POTIONS             BITMAP                  "pickups\\potions.bmp"
+IDB_ST_AXE              BITMAP                  "pickups\\st_axe.bmp"
+IDB_ST_MACE             BITMAP                  "pickups\\st_mace.bmp"
+IDB_SWORDS              BITMAP                  "pickups\\swords.bmp"
+IDB_MAP_BRIDGES         BITMAP                  "zones\\bridges.bmp"
+IDB_MAP_DECORATION      BITMAP                  "zones\\decoration.bmp"
+IDB_MAP_GROUND          BITMAP                  "zones\\ground.bmp"
+IDB_MAP_ITEMS           BITMAP                  "zones\\items.bmp"
+IDB_MAP_PATHNODES       BITMAP                  "zones\\pathnodes.bmp"
+
+#endif    // Français (Suisse) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
